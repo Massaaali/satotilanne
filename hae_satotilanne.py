@@ -203,7 +203,6 @@ def hae_ja_kasittele_data():
             del alue["max_y"]
 
     tulos = {
-        "paivitetty": datetime.now().isoformat(),
         "alueet": ALUEET
     }
     
