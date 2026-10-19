@@ -2,9 +2,9 @@ name: Päivitä Satotilanne
 
 on:
   schedule:
-    # Ajaa skriptin joka aamu klo 04:00 Suomen aikaa (01:00 UTC)
-    - cron: '0 1 * * *'
-  workflow_dispatch: 
+    # Ajaa klo 04:00 Suomen aikaa, mutta VAIN kuukausina 5-10 (touko-lokakuu)
+    - cron: '0 1 * 5-10 *'
+  workflow_dispatch:
     # Antaa sinun ajaa tämän myös manuaalisesti napista GitHubissa
 
 jobs:
@@ -17,10 +17,10 @@ jobs:
 
     steps:
       - name: Hae koodi (Checkout)
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Asenna Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
