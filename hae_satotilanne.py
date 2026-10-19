@@ -4,7 +4,8 @@ from datetime import datetime
 from pyproj import Transformer
 
 # Aito havaintodata
-HAVAINTO_API = "https://marjahavainnot.fi/api/v1/observations?year=2026"
+nykyinen_vuosi = datetime.now().year
+HAVAINTO_API = f"https://marjahavainnot.fi/api/v1/observations?year={nykyinen_vuosi}"
 
 # Luodaan muuntaja: EPSG:3067 (Luken metrit) -> EPSG:4326 (WGS84 GPS-asteet)
 # always_xy=True varmistaa, että järjestys on aina (pituusaste, leveysaste)
