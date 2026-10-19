@@ -1,0 +1,454 @@
+{
+    "paivitetty": "2026-10-19T18:54:43.435143",
+    "alueet": [
+        {
+            "nimi": "Ahvenanmaa",
+            "min_lat": 59.7,
+            "max_lat": 60.5,
+            "min_lon": 19.3,
+            "max_lon": 21.2,
+            "mustikka": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            },
+            "puolukka": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            },
+            "karpalo": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            }
+        },
+        {
+            "nimi": "Varsinais-Suomi",
+            "min_lat": 60.0,
+            "max_lat": 61.0,
+            "min_lon": 21.0,
+            "max_lon": 24.0,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-21)",
+                "havainto_lat": 60.34681249525956,
+                "havainto_lon": 23.556466970666143
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-25)",
+                "havainto_lat": 60.34681249525956,
+                "havainto_lon": 23.556466970666143
+            },
+            "karpalo": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            }
+        },
+        {
+            "nimi": "Uusimaa",
+            "min_lat": 59.8,
+            "max_lat": 60.8,
+            "min_lon": 23.0,
+            "max_lon": 26.5,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-29)",
+                "havainto_lat": 60.781566923924835,
+                "havainto_lon": 25.071676888409584
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-29)",
+                "havainto_lat": 60.64275454085768,
+                "havainto_lon": 24.8056237476401
+            },
+            "karpalo": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            }
+        },
+        {
+            "nimi": "Satakunta",
+            "min_lat": 60.9,
+            "max_lat": 62.0,
+            "min_lon": 21.3,
+            "max_lon": 23.0,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-25)",
+                "havainto_lat": 61.49816618888651,
+                "havainto_lon": 21.64229783988925
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-09-06)",
+                "havainto_lat": 61.49816618888651,
+                "havainto_lon": 21.64229783988925
+            },
+            "karpalo": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            }
+        },
+        {
+            "nimi": "Kanta-Häme",
+            "min_lat": 60.6,
+            "max_lat": 61.3,
+            "min_lon": 23.3,
+            "max_lon": 25.0,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-29)",
+                "havainto_lat": 60.781566923924835,
+                "havainto_lon": 25.071676888409584
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-29)",
+                "havainto_lat": 60.64275454085768,
+                "havainto_lon": 24.8056237476401
+            },
+            "karpalo": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            }
+        },
+        {
+            "nimi": "Pirkanmaa",
+            "min_lat": 61.1,
+            "max_lat": 62.4,
+            "min_lon": 22.6,
+            "max_lon": 24.8,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-08)",
+                "havainto_lat": 61.84117611370829,
+                "havainto_lon": 24.055296875176566
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-09-12)",
+                "havainto_lat": 61.84117611370829,
+                "havainto_lon": 24.055296875176566
+            },
+            "karpalo": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-02)",
+                "havainto_lat": 61.84117611370829,
+                "havainto_lon": 24.055296875176566
+            }
+        },
+        {
+            "nimi": "Päijät-Häme",
+            "min_lat": 60.8,
+            "max_lat": 61.7,
+            "min_lon": 24.9,
+            "max_lon": 26.3,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-29)",
+                "havainto_lat": 60.781566923924835,
+                "havainto_lon": 25.071676888409584
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-25)",
+                "havainto_lat": 60.781566923924835,
+                "havainto_lon": 25.071676888409584
+            },
+            "karpalo": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            }
+        },
+        {
+            "nimi": "Kymenlaakso",
+            "min_lat": 60.3,
+            "max_lat": 61.2,
+            "min_lon": 26.0,
+            "max_lon": 27.9,
+            "mustikka": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            },
+            "puolukka": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            },
+            "karpalo": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            }
+        },
+        {
+            "nimi": "Etelä-Karjala",
+            "min_lat": 60.7,
+            "max_lat": 61.6,
+            "min_lon": 27.2,
+            "max_lon": 29.7,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-01)",
+                "havainto_lat": 61.01365276110981,
+                "havainto_lon": 28.294853230788227
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-31)",
+                "havainto_lat": 61.01365276110981,
+                "havainto_lon": 28.294853230788227
+            },
+            "karpalo": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            }
+        },
+        {
+            "nimi": "Etelä-Savo",
+            "min_lat": 61.2,
+            "max_lat": 62.5,
+            "min_lon": 26.0,
+            "max_lon": 29.6,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-26)",
+                "havainto_lat": 62.26700104547792,
+                "havainto_lon": 28.637312590489117
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-09-02)",
+                "havainto_lat": 61.42382516115039,
+                "havainto_lon": 27.093696641913187
+            },
+            "karpalo": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-26)",
+                "havainto_lat": 62.321532254522765,
+                "havainto_lon": 27.0
+            }
+        },
+        {
+            "nimi": "Pohjois-Savo",
+            "min_lat": 62.2,
+            "max_lat": 63.9,
+            "min_lon": 25.8,
+            "max_lon": 29.0,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-19)",
+                "havainto_lat": 62.321532254522765,
+                "havainto_lon": 27.0
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-09-07)",
+                "havainto_lat": 62.99054525740114,
+                "havainto_lon": 28.085515836903948
+            },
+            "karpalo": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-28)",
+                "havainto_lat": 63.71042497106295,
+                "havainto_lon": 27.80944260087346
+            }
+        },
+        {
+            "nimi": "Pohjois-Karjala",
+            "min_lat": 61.8,
+            "max_lat": 63.8,
+            "min_lon": 28.5,
+            "max_lon": 31.6,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-05)",
+                "havainto_lat": 62.82505107606651,
+                "havainto_lon": 30.140915363290734
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-09-02)",
+                "havainto_lat": 62.82505107606651,
+                "havainto_lon": 30.140915363290734
+            },
+            "karpalo": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-19)",
+                "havainto_lat": 63.478171199341624,
+                "havainto_lon": 28.706215837253957
+            }
+        },
+        {
+            "nimi": "Keski-Suomi",
+            "min_lat": 61.6,
+            "max_lat": 63.4,
+            "min_lon": 24.0,
+            "max_lon": 26.6,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-23)",
+                "havainto_lat": 61.912033863923526,
+                "havainto_lon": 25.76251678439163
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-09-02)",
+                "havainto_lat": 63.30199940225129,
+                "havainto_lon": 25.603508732775985
+            },
+            "karpalo": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-12)",
+                "havainto_lat": 62.268102750971806,
+                "havainto_lon": 25.45895719760396
+            }
+        },
+        {
+            "nimi": "Etelä-Pohjanmaa",
+            "min_lat": 62.1,
+            "max_lat": 63.4,
+            "min_lon": 21.2,
+            "max_lon": 24.4,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-24)",
+                "havainto_lat": 63.445286816344925,
+                "havainto_lon": 23.49022572569128
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-09-10)",
+                "havainto_lat": 63.3506721182044,
+                "havainto_lon": 23.30171834305724
+            },
+            "karpalo": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-26)",
+                "havainto_lat": 63.445286816344925,
+                "havainto_lon": 23.49022572569128
+            }
+        },
+        {
+            "nimi": "Pohjanmaa",
+            "min_lat": 62.0,
+            "max_lat": 64.0,
+            "min_lon": 20.9,
+            "max_lon": 23.4,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-17)",
+                "havainto_lat": 62.52238525359152,
+                "havainto_lon": 22.626786394730797
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-09-06)",
+                "havainto_lat": 62.52238525359152,
+                "havainto_lon": 22.626786394730797
+            },
+            "karpalo": {
+                "tila": "tuntematon",
+                "kuvaus": "Ei havaintoja"
+            }
+        },
+        {
+            "nimi": "Keski-Pohjanmaa",
+            "min_lat": 63.3,
+            "max_lat": 64.1,
+            "min_lon": 23.3,
+            "max_lon": 24.8,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-24)",
+                "havainto_lat": 63.445286816344925,
+                "havainto_lon": 23.49022572569128
+            },
+            "puolukka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-09-10)",
+                "havainto_lat": 64.13692425031626,
+                "havainto_lon": 24.3284975313392
+            },
+            "karpalo": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-26)",
+                "havainto_lat": 63.445286816344925,
+                "havainto_lon": 23.49022572569128
+            }
+        },
+        {
+            "nimi": "Pohjois-Pohjanmaa",
+            "min_lat": 63.6,
+            "max_lat": 66.3,
+            "min_lon": 23.5,
+            "max_lon": 30.0,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-14)",
+                "havainto_lat": 66.00045246559074,
+                "havainto_lon": 26.669498659471436
+            },
+            "puolukka": {
+                "tila": "kypsä",
+                "kuvaus": "Kypsä (Todennettu: 2026-09-27)",
+                "havainto_lat": 65.59239641401906,
+                "havainto_lon": 28.192861986191236
+            },
+            "karpalo": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-01)",
+                "havainto_lat": 64.69253952889281,
+                "havainto_lon": 25.532331040162916
+            }
+        },
+        {
+            "nimi": "Kainuu",
+            "min_lat": 63.7,
+            "max_lat": 65.5,
+            "min_lon": 27.5,
+            "max_lon": 30.3,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-04)",
+                "havainto_lat": 65.22962720415114,
+                "havainto_lon": 28.6043636613324
+            },
+            "puolukka": {
+                "tila": "kypsä",
+                "kuvaus": "Kypsä (Todennettu: 2026-09-27)",
+                "havainto_lat": 65.59239641401906,
+                "havainto_lon": 28.192861986191236
+            },
+            "karpalo": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-07-28)",
+                "havainto_lat": 63.71042497106295,
+                "havainto_lon": 27.80944260087346
+            }
+        },
+        {
+            "nimi": "Lappi",
+            "min_lat": 65.5,
+            "max_lat": 70.1,
+            "min_lon": 20.5,
+            "max_lon": 30.2,
+            "mustikka": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-14)",
+                "havainto_lat": 66.00045246559074,
+                "havainto_lon": 26.669498659471436
+            },
+            "puolukka": {
+                "tila": "kypsä",
+                "kuvaus": "Kypsä (Todennettu: 2026-09-27)",
+                "havainto_lat": 65.59239641401906,
+                "havainto_lon": 28.192861986191236
+            },
+            "karpalo": {
+                "tila": "ohi",
+                "kuvaus": "Sato ohi (Viimeisin kypsä havainto: 2026-08-02)",
+                "havainto_lat": 69.578040069729,
+                "havainto_lon": 28.926217718849134
+            }
+        }
+    ]
+}
